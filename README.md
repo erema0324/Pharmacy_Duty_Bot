@@ -45,7 +45,6 @@ pip install -r requirements.txt
 <code>
 TELEGRAM_BOT_TOKEN=12345:ABC
 OPENCAGE_API_KEY=6789  
-CHAT_ID=@mychannel
 </code>
 </pre>
 
